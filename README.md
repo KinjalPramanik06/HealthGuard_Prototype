@@ -1,4 +1,4 @@
-# HealthGuard V2
+# HealthGuard
 
 HealthGuard is a full-stack personal and family health workspace built directly on the supplied React project and healthcare datasets. It combines patient-owned records, secure report uploads, a source-backed hospital explorer, deterministic emergency triage, Academy learning, role-based administration, and a Socket.IO ambulance workflow in a responsive Health Operating System interface.
 
