@@ -25,5 +25,5 @@ The OCR boundary follows the same disabled/HTTP pattern and is invoked only afte
 
 ## Production provider requirements
 
-A production adapter still requires a contracted service, schema validation for its exact response, data-processing and retention agreements, PHI minimization, auditability, regional controls, medical safety evaluation, human escalation, and organization-approved prompts/models. HealthGuard intentionally does not fabricate provider output when these are absent.
+A production adapter still requires a contracted service, schema validation for its exact response, data-processing and retention agreements, PHI minimization, auditability, regional controls, medical safety evaluation, human escalation, and organization-approved prompts/models. HealthGuard intentionally does not fabricate provider output when these are absent..
 
